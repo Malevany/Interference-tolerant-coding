@@ -1,0 +1,84 @@
+C:\Users\User\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.exe
+C:\Users\User\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.deps.json
+C:\Users\User\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.runtimeconfig.json
+C:\Users\User\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\User\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.cache
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.lref
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.g.resources
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfo.cs
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\refint\ГрафичВып1.dll
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.genruntimeconfig.cache
+C:\Users\User\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ref\ГрафичВып1.dll
+C:\Users\Денис\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.exe
+C:\Users\Денис\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.deps.json
+C:\Users\Денис\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.runtimeconfig.json
+C:\Users\Денис\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\Денис\Desktop\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.cache
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.lref
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.g.resources
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfo.cs
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\refint\ГрафичВып1.dll
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.genruntimeconfig.cache
+C:\Users\Денис\Desktop\ГрафичВып1\obj\Debug\net7.0-windows\ref\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.exe
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.deps.json
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.runtimeconfig.json
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.cache
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.lref
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.g.resources
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\refint\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Учеба\2 курс 2 семестр\теория информации и кодирование\ГрафичВып1\obj\Debug\net7.0-windows\ref\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.exe
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.deps.json
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.runtimeconfig.json
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1_MarkupCompile.lref
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.g.resources
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\refint\ГрафичВып1.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.pdb
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ГрафичВып1.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ref\ГрафичВып1.dll

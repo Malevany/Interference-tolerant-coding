@@ -1,0 +1,66 @@
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\Курсовая работа ТиК.exe
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\Курсовая работа ТиК.deps.json
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\Курсовая работа ТиК.runtimeconfig.json
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\bin\Debug\net7.0-windows\Курсовая работа ТиК.pdb
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК_MarkupCompile.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК_MarkupCompile.lref
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.g.resources
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\refint\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.pdb
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\Курсовая работа ТиК.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Курсач ТИК\ГрафичВып1\obj\Debug\net7.0-windows\ref\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК_MarkupCompile.cache
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК_MarkupCompile.lref
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\refint\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.pdb
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.exe
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.deps.json
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.runtimeconfig.json
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.pdb
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.g.resources
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\ref\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\HammingCodeWindow.g.cs
+C:\Users\Денис\Desktop\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\HammingCodeWindow.baml
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.exe
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.deps.json
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.runtimeconfig.json
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\bin\Debug\net7.0-windows\Курсовая работа ТиК.pdb
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\HammingCodeWindow.g.cs
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК_MarkupCompile.cache
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК_MarkupCompile.lref
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\HammingCodeWindow.baml
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.g.resources
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\refint\Курсовая работа ТиК.dll
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.pdb
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\Курсовая работа ТиК.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Учеба\3 курс 1 семестр\Курсач ТИК\Курсовая работа ТИК\obj\Debug\net7.0-windows\ref\Курсовая работа ТиК.dll

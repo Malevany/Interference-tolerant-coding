@@ -1,0 +1,56 @@
+﻿<Window x:Class="Курсовая_работа_ТиК.HammingCodeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Курсовая_работа_ТиК"
+        mc:Ignorable="d"
+        Title="HammingCodeWindow" Height="700" Width="670">
+    <Grid Background="Gray">
+        <StackPanel HorizontalAlignment="Center" Orientation="Vertical" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel  Orientation="Vertical">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Height="150" Width="150">
+                        <StackPanel>
+                            <Label Content="G"/>
+                            <DataGrid x:Name="GenerativeMatrixDataGrid" AutoGenerateColumns="False" CanUserAddRows="False" HorizontalAlignment="Left" />
+                        </StackPanel>
+                    </ScrollViewer>
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Height="110" Width="150">
+                        <StackPanel>
+                            <Label Content="H"/>
+                            <DataGrid x:Name="VerificationMatrixDataGrid" AutoGenerateColumns="False" CanUserAddRows="False" HorizontalAlignment="Left" />
+                        </StackPanel>
+                    </ScrollViewer>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <TextBox x:Name="ErrorsChecker" TextWrapping="Wrap" Width="194" Height="200" Margin="20,10,20,0"/>
+                    <Button Content="Закончить" Width="150" Height="40" Click="Exit" Margin="0,10,0,0" FontSize="20"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <Button x:Name="DecodingButton" Content="Декодировать" Width="150" Height="40" Margin="0,20,0,0" Click="DecodingButton_Click" FontSize="20"/>
+                    <Label x:Name="DecodingLabel" Content="Декодированное сообщение" FontSize="15" Margin="0,10,0,0"/>
+                    <TextBox x:Name="DecodingTextBox" Width="200" Height="150"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <DataGrid x:Name="ErrorsAndSindroms" ItemsSource="{Binding}" AutoGenerateColumns="False" Height="370" Width="150" Margin="20">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header=" Ошибки " Binding="{Binding Key}" />
+                            <DataGridTextColumn Header=" Синдромы " Binding="{Binding Value}" />
+                        </DataGrid.Columns>
+                </DataGrid>
+                    <DataGrid x:Name="Errors" ItemsSource="{Binding}" AutoGenerateColumns="False" Height="370" Width="150" Margin="20">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="           Синдромы         " Binding="{Binding Key}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                <DataGrid x:Name="CorrectGrid" ItemsSource="{Binding}" AutoGenerateColumns="False" Height="370" Width="150" Margin="20">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Исправленные ошибки" Binding="{Binding Key}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
